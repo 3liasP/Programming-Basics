@@ -1,0 +1,12 @@
+            """"
+            for merkki in aakkoset:
+                rivi = rivi.replace(merkki,"")
+                lista.append(rivi)
+        print(lista)
+        #with open ("korjatut_laskut.csv", "w") as kopiot:
+
+
+
+for merkki in aakkoset:
+                if merkki in rivi:
+                    uusirivi = rivi.replace(merkki,"")

@@ -1,0 +1,3 @@
+mjh-500;Mikki ja Hessu;1987;104;True
+ajr-600;Aku ja Roope;1999;120;True
+vlj-700;Veljenpojat;2009;179;True
