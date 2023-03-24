@@ -1,0 +1,2 @@
+sana = input("Anna sana: ")
+print("Sanassa on", sana.count("a") + sana.count("e") + sana.count("i") + sana.count("o") + sana.count("u") + sana.count("y") + sana.count("å") + sana.count("ä") + sana.count("ö"), "vokaalia" )

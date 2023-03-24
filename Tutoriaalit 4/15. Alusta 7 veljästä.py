@@ -1,0 +1,1 @@
+veljekset =  ["Aapo", "Eero", "Juhani", "Lauri", "Simeoni", "Timo", "Tuomas"]
